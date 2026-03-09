@@ -1,0 +1,2 @@
+mkdir -p serverless-microservices-app
+cd serverless-microservices-app
