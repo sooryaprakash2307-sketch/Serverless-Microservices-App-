@@ -1,0 +1,2 @@
+Compress-Archive -Path "serverless-microservices-app" -DestinationPath "serverless-microservices-app.zip"
+Get-Item "serverless-microservices-app.zip"
